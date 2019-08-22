@@ -1,24 +1,14 @@
 {
-  "name": "pomelo-monitor",
+  "name": "@sex-pomelo/sex-pomelo-monitor",
 	"description": "monitor the operating-system and process information",
-  "version": "0.3.5",
-	"author": "halfblood369 <halfblood369@gmail.com>",
-  "_id": "pomelo-monitor@0.2.7",
+  "version": "0.3.8",
+	"author": "halfblood369 <halfblood369@gmail.com>,shudingbo <shudingbo@qq.com>",
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
     "node": "*"
   },
-	"repository": "https://github.com/halfblood369/monitor.git",
-	"main": "index",
-  "_engineSupported": true,
-  "_npmVersion": "1.1.21",
-  "_nodeVersion": "v0.6.18",
-  "_defaultsLoaded": true,
-  "_from": "pomelo-monitor@>=0.1.2",
-  "_npmUser": {
-    "name": "lwj",
-    "email": "lwj19861218@163.com"
-  }
+	"repository": "https://github.com/sex-pomelo/sex-pomelo-monitor",
+	"main": "index"
 }
