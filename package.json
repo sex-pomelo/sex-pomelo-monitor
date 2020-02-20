@@ -1,7 +1,7 @@
 {
  "name": "@sex-pomelo/sex-pomelo-monitor",
  "description": "monitor the operating-system and process information",
- "version": "0.3.11",
+ "version": "0.3.12",
  "author": "halfblood369 <halfblood369@gmail.com>,shudingbo <shudingbo@qq.com>",
  "dependencies": {},
  "devDependencies": {},
